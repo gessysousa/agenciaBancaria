@@ -1,0 +1,17 @@
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.deps.json
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.dll
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.pdb
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.dll
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+D:\Projetos\DecolaTech\InovaTechDIO\AgenciaBancaria_\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.pdb
